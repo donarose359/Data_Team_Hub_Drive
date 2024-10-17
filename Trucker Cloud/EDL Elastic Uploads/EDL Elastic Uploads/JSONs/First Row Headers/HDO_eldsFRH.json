@@ -1,0 +1,2 @@
+{"index":{"_index":"eos_hdo_tc_prod_eld_index","_id":"1"}}
+{"id":"1","org_id":"1835","account_id":"1835","eld":"1","name":"Motive","display_name":"Motive formerly KeepTruckin","location_api":"https://api.keeptruckin.com/v1/vehicle_locations?page_no=$page_no","vehicle_api":"https://api.keeptruckin.com/v1/vehicles?page_no=$page_no","hos_api":"https://api.keeptruckin.com/v1/available_time?page_no=$page_no","driver_api":"https://api.keeptruckin.com/v1/users?role=driver&page_no=$page_no","image_path":"KeepTruckin-logo.png","params":"fuhefheufhe","current_date":"2024/08/02"}

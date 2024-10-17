@@ -1,0 +1,1 @@
+{"took":606,"errors":false,"items":[{"index":{"_index":"eos_hdo_tc_prod_carrier_index","_type":"_doc","_id":"1","_version":1,"result":"created","_shards":{"total":2,"successful":2,"failed":0},"_seq_no":0,"_primary_term":1,"status":201}}]}

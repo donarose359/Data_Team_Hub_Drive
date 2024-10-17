@@ -1,0 +1,7 @@
+2024-08-08 11:33:47,665 - INFO - API request initiated to https://api.truckercloud.com/api/v4/carriers
+
+Response
+
+{'Pagination': {'currentPage': 1, 'size': 1, 'totalPages': 1, 'totalElements': 1}, 'content': [{'carrierInfo': {'carrierId': 6232, 'carrierName': 'AMERICAN TRANSPORTATION', 'type': 'MASTER', 'firstName': 'Dan', 'lastName': 'Wilson', 'carrierInfoCodes': [{'carrierCode': '6232', 'codeType': 'TCID'}, {'carrierCode': '1151228', 'codeType': 'DOT'}, {'carrierCode': '464653', 'codeType': 'MC'}]}, 'contactInfo': {'email': 'sam+135409335@r1vs.com'}, 'eldVendorInfo': [{'eldVendor': 'Samsara', 'apiKey': 'samsara_api_S8W4IdviKU8dNASFv0lHoKnoMDXwoO', 'status': 'ACTIVE'}]}]}
+2024-08-08 11:33:48,898 - INFO - 
+Carrier file created

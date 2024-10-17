@@ -1,0 +1,2 @@
+{"index":{"_index":"eos_hdo_tc_prod_veh_asset_driver_index","_id":"1"}}
+{"id":"1","org_id":"1835","account_id":"1835","status":"NOT_FOUND","timestamp":"2024/07/22 07:11:04","message":"no driver found for vehicle id 7985857","asset_id":"rdftgyhuio","driver_id":"6787yhj","eld_driver_id":"789iuhygt6y7","first_name":"Don","last_name":"Lass","license_no":"567898765","license_state":"CA","phone_no":"345678987654","current_date":"2024/08/02"}

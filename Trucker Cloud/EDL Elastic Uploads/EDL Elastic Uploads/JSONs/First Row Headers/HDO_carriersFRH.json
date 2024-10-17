@@ -1,0 +1,2 @@
+{"index":{"_index":"eos_hdo_tc_prod_carrier_index","_id":"1"}}
+{"id":"1","org_id":1835,"account_id":1835,"carrier_id":"6232","carrier_name":"AMERICAN TRANSPORTATION","first_name":"Dan","last_name":"Wilson","carrier_code":"6232","code_type":"TCID","email":"sam+135409335@r1vs.com","eld_vendor":"Samsara","api_key":"samsara_api_S8W4IdviKU8dNASFv0lHoKnoMDXwoO","status":"ACTIVE","type":"MASTER","carrier_info_codes":[{"carrierCode":"6232","codeType":"TCID"},{"carrierCode":"1151228","codeType":"DOT"},{"carrierCode":"464653","codeType":"MC"}],"current_date":"2024/08/02"}
